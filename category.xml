@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+	<liens>
+		<NomCategory>C#</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>VB</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>VBA</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>C</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>WEB</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>LINUX</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>WINDOWS</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>ACTIVE</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>LOCAL</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>SHOPPING</NomCategory>
+	</liens>
+	<liens>
+		<NomCategory>OTHER</NomCategory>
+	</liens>
+</root>
